@@ -3,7 +3,7 @@
 This repository contains the solution for **Assignment 2** of the *Big Data Management* course.  
 The project focuses on building an end-to-end **machine learning pipeline** for wind power prediction, following the **data analytics lifecycle** and emphasizing **reproducibility, scalability, and proper evaluation**.
 
-**Note**: The problem statement and a report for the assignment can be found in this folder Project Overview
+**Note**: The problem statement and a report for the assignment can be found in the folder Project Overview
 
 ---
 
